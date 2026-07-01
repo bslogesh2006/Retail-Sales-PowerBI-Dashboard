@@ -60,6 +60,3 @@ Logesh B S
 
 B.Com Graduate | Power BI Enthusiast | Business Analytics Aspirant
 
-**Logesh B S**
-
-B.Com Graduate | Power BI Enthusiast | Business Analytics Aspirant

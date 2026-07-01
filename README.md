@@ -45,13 +45,6 @@ The dashboard enables users to explore sales, profit, customer behavior, product
 ## 📂 Dataset
 
 Sample Superstore Dataset
-
----
-
-## 📷 Dashboard Preview
-
-Dashboard screenshots will be added soon.
-
 ---
 
 ## 👨‍💻 Author
